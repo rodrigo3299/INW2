@@ -34,4 +34,15 @@ for(let x=0; x=nome.length; x++){
     if(notas[x<=5]){
         situacao = 'Rec'
     }
+      else{
+
+        situacao = "Aprovado"
+
+    }
+
+    console.log(MAT[x]+ "\t" +nomes[x]+ "\t" +notas[x]+"\t" +situacao);
+
+   
+
+}
 }
