@@ -1,3 +1,3 @@
-Após baixar este projeto execute o comando abaixo: 
+Após clonaro repositorio executar:
 npm install
-```
+npm run start
